@@ -1,0 +1,175 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    width: 375px;
+}
+
+.header-div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    padding: 20px;
+}
+
+
+.header-logo {
+padding-right: 50px;
+}
+
+
+.header-logo img {
+    width: 100px;
+}
+
+.header-h1 {
+height: 14px;
+width: 49px;
+font-family: Raleway;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0px;
+text-align: left;
+color: #07043B;
+
+}
+
+.header-h2 {
+height: 14px;
+width: 31px;
+border-radius: nullpx;
+font-family: Raleway;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0px;
+text-align: left;
+color: #07043B;
+}
+
+.header-h3 {
+height: 14px;
+width: 38px;
+border-radius: nullpx;
+font-family: Raleway;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0px;
+text-align: left;
+color: #07043B;
+}
+
+.header-img-div {
+display: flex;
+justify-content: center;
+height: 225px;
+}
+
+
+.header-div1 {
+padding: 25px;
+}
+
+.header-text-div {
+height: 84px;
+display: flex;
+justify-content: center;
+padding-top: 25px;
+}
+    
+
+.header-text-h1 {
+height: 108px;
+height: 108px;
+border-radius: nullpx;
+font-family: Open Sans;
+font-size: 24px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0px;
+text-align: center;
+}
+
+
+.header-p-div {
+display: flex;
+justify-content: center;
+padding-top: 60px;
+}
+
+
+.header-text-p {
+height: 84px;
+width: 296px;
+font-family: Open Sans;
+font-size: 14px;
+font-weight: 400;
+line-height: 21px;
+letter-spacing: 0px;
+text-align: center;
+}
+
+
+.email-div {
+box-sizing: border-box;
+height: 40px;
+width: 304px;
+border-radius: 3.125px;
+width: 100%;
+border: solid black 2px;
+display: flex;
+align-items: center;
+}
+
+.email-text {
+color:rgba(194, 194, 194, 1);
+padding-left: 25px;
+left: 21px;
+top: 14px;
+border-radius: nullpx;
+font-family: Raleway;
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0.4
+}
+
+
+.button-div {
+height: 40px;
+width: 325px;
+border-radius: 3.125px;
+background: rgba(47, 101, 248, 1);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.button-text {
+height: 16px;
+width: 78px;
+left: 113px;
+top: 12px;
+border-radius: nullpx;
+font-family: Raleway;
+font-size: 14px;
+font-weight: 700;
+line-height: 16px;
+letter-spacing: 0px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+
+}
+
+
+.head-email-div {
+display: flex;
+flex-direction: column;
+gap: 16px;
+padding-top: 32px;
+}
